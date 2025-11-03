@@ -1,4 +1,5 @@
 package ExercíciosEntregaveisAP2;
 
-public class TDA {
+public interface TDA {
+    void mostrar();
 }
